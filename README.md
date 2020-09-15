@@ -5,7 +5,7 @@
  - jQuery
  - Typescript
 
-# webpack sample
+# Installation
 
 Run **webpack.config.js**:
 
