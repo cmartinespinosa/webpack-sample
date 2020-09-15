@@ -9,7 +9,7 @@
 
 Run **webpack.config.js**:
 
-    npx webpack
+    npm run build
     
 For compile in real-time:
 
